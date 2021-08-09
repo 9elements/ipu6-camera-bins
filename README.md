@@ -16,6 +16,6 @@ This repository supports MIPI cameras through the IPU6 on Intel Tigerlake platfo
 ## Deployment
 ipu6-camera-bins should be copied to build server and target
 ```
-cp -r ipu6-camera-bins/include/* /usr/include/
-cp -r ipu6-camera-bins/lib/* /usr/lib/
+cp -r include/* /usr/include/
+cp -r lib/* /usr/lib/
 ```
